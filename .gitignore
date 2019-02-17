@@ -216,3 +216,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+.classpath
+.project
